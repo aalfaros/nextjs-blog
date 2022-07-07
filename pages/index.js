@@ -22,9 +22,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          hola!
+          adios
           <br />
-          si gustas, puedes ver el{' '}
+          no veas el{' '}
           <Link href={'/posts/ssg-ssr'}>
             <a>ssg-ssr post</a>
           </Link>
