@@ -24,9 +24,9 @@ export default function Home({ allPostsData }) {
         <p>
           hola!
           <br />
-          si gustas, puedes ver mi{' '}
-          <Link href={'/posts/first-post'}>
-            <a>primer post</a>
+          si gustas, puedes ver el{' '}
+          <Link href={'/posts/ssg-ssr'}>
+            <a>ssg-ssr post</a>
           </Link>
         </p>
         <p>
